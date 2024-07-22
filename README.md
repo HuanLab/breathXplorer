@@ -1,8 +1,10 @@
-# breathXplorer
+# BreathXplorer
 
 [![PyPI](https://img.shields.io/pypi/pyversions/breathXplorer)](https://pypi.org/project/breathXplorer/)
 [![Python package](https://github.com/wykswr/breathXplorer/actions/workflows/python-package.yml/badge.svg?branch=main)](https://github.com/wykswr/breathXplorer/actions/workflows/python-package.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<img src="logo.png" alt="BreathXplorer" width="200"/>
 
 <!-- TOC -->
 
